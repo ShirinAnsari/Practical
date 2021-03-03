@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShirinAnsariPractical</string>
+
+    <string name="internet_error">Please connect to internet</string>
+
+    <string name="str_user_name">%1$s %2$s</string>
+    <string name="str_user_location">%1$s, %2$s, %3$s</string>
+
+</resources>
